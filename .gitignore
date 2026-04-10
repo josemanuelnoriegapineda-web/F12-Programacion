@@ -1,6 +1,10 @@
 *.aux
 *.log
+<<<<<<< HEAD
 *.pdf
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+=======
+.code_config/
+>>>>>>> f0fb3d9f7e5571b89e2ce5833328a72b02776249
