@@ -7,4 +7,8 @@
 *.fdb_latexmk
 =======
 .code_config/
+<<<<<<< HEAD
 >>>>>>> f0fb3d9f7e5571b89e2ce5833328a72b02776249
+=======
+grader/
+>>>>>>> 9d18a763ca5ab4fad79c2bad697018dd38346228
